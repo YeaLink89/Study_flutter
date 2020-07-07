@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="24251ddf-c83a-4c5b-85cd-d10ad2c168ff" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dXFk8Ypn2JMHLsXdIk4OGyvXmx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Variables" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24251ddf-c83a-4c5b-85cd-d10ad2c168ff" name="Default Changelist" comment="" />
+      <created>1592563790009</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592563790009</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="190" y="107" key="#PSD" timestamp="1592564188457">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="190" y="107" key="#PSD/0.23.1280.722/1280.23.1920.1057@0.23.1280.722" timestamp="1592564188457" />
+    <state width="936" height="173" key="GridCell.Tab.0.bottom" timestamp="1593780188310">
+      <screen x="-1920" y="-257" width="1920" height="1057" />
+    </state>
+    <state width="609" height="77" key="GridCell.Tab.0.bottom/0.23.1280.722/1280.23.1920.1057@0.23.1280.722" timestamp="1592992411841" />
+    <state width="936" height="173" key="GridCell.Tab.0.bottom/0.23.1280.724/-1920.-257.1920.1057@-1920.-257.1920.1057" timestamp="1593780188310" />
+    <state width="609" height="119" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.1002@0.23.1280.777" timestamp="1593000809138" />
+    <state width="936" height="173" key="GridCell.Tab.0.center" timestamp="1593780188309">
+      <screen x="-1920" y="-257" width="1920" height="1057" />
+    </state>
+    <state width="609" height="77" key="GridCell.Tab.0.center/0.23.1280.722/1280.23.1920.1057@0.23.1280.722" timestamp="1592992411838" />
+    <state width="936" height="173" key="GridCell.Tab.0.center/0.23.1280.724/-1920.-257.1920.1057@-1920.-257.1920.1057" timestamp="1593780188309" />
+    <state width="609" height="119" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.1002@0.23.1280.777" timestamp="1593000809138" />
+    <state width="936" height="173" key="GridCell.Tab.0.left" timestamp="1593780188308">
+      <screen x="-1920" y="-257" width="1920" height="1057" />
+    </state>
+    <state width="609" height="77" key="GridCell.Tab.0.left/0.23.1280.722/1280.23.1920.1057@0.23.1280.722" timestamp="1592992411837" />
+    <state width="936" height="173" key="GridCell.Tab.0.left/0.23.1280.724/-1920.-257.1920.1057@-1920.-257.1920.1057" timestamp="1593780188308" />
+    <state width="609" height="119" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.1002@0.23.1280.777" timestamp="1593000809137" />
+    <state width="936" height="173" key="GridCell.Tab.0.right" timestamp="1593780188309">
+      <screen x="-1920" y="-257" width="1920" height="1057" />
+    </state>
+    <state width="609" height="77" key="GridCell.Tab.0.right/0.23.1280.722/1280.23.1920.1057@0.23.1280.722" timestamp="1592992411839" />
+    <state width="936" height="173" key="GridCell.Tab.0.right/0.23.1280.724/-1920.-257.1920.1057@-1920.-257.1920.1057" timestamp="1593780188309" />
+    <state width="609" height="119" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.1002@0.23.1280.777" timestamp="1593000809138" />
+    <state x="113" y="23" key="SettingsEditor" timestamp="1592991223175">
+      <screen x="0" y="23" width="1280" height="722" />
+    </state>
+    <state x="113" y="23" key="SettingsEditor/0.23.1280.722/1280.23.1920.1057@0.23.1280.722" timestamp="1592991223175" />
+    <state x="308" y="202" key="com.intellij.ide.util.TipDialog" timestamp="1594121667667">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="308" y="202" key="com.intellij.ide.util.TipDialog/0.23.1280.722/1280.23.1920.1057@0.23.1280.722" timestamp="1592991361130" />
+    <state x="-1458" y="5" key="com.intellij.ide.util.TipDialog/0.23.1280.724/-1920.-257.1920.1057@-1920.-257.1920.1057" timestamp="1593768166756" />
+    <state x="308" y="202" key="com.intellij.ide.util.TipDialog/0.23.1280.724@0.23.1280.724" timestamp="1594121667667" />
+    <state x="308" y="216" key="com.intellij.ide.util.TipDialog/0.23.1280.777/1280.23.1920.1002@0.23.1280.777" timestamp="1592968741240" />
+    <state x="321" y="23" width="695" height="724" key="find.popup" timestamp="1594123437994">
+      <screen x="0" y="23" width="1280" height="724" />
+    </state>
+    <state x="321" y="23" width="695" height="724" key="find.popup/0.23.1280.724@0.23.1280.724" timestamp="1594123437994" />
+  </component>
+</project>
